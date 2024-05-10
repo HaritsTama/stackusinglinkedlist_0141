@@ -15,3 +15,9 @@ public :
 		next = NULL;
 	}
 };
+
+//Stack class
+class Stack
+{
+
+};
